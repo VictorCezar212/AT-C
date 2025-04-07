@@ -12,3 +12,17 @@ C:\Users\victo\source\repos\AT\AT11-12\obj\Debug\net8.0\refint\AT11.dll
 C:\Users\victo\source\repos\AT\AT11-12\obj\Debug\net8.0\AT11.pdb
 C:\Users\victo\source\repos\AT\AT11-12\obj\Debug\net8.0\AT11.genruntimeconfig.cache
 C:\Users\victo\source\repos\AT\AT11-12\obj\Debug\net8.0\ref\AT11.dll
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT11-12\obj\Debug\net8.0\AT11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT11-12\obj\Debug\net8.0\AT11.AssemblyInfoInputs.cache
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT11-12\obj\Debug\net8.0\AT11.AssemblyInfo.cs
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT11-12\obj\Debug\net8.0\AT11.csproj.CoreCompileInputs.cache
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT11-12\obj\Debug\net8.0\AT11.dll
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT11-12\obj\Debug\net8.0\refint\AT11.dll
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT11-12\obj\Debug\net8.0\AT11.pdb
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT11-12\bin\Debug\net8.0\AT11.exe
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT11-12\bin\Debug\net8.0\AT11.deps.json
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT11-12\bin\Debug\net8.0\AT11.runtimeconfig.json
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT11-12\bin\Debug\net8.0\AT11.dll
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT11-12\bin\Debug\net8.0\AT11.pdb
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT11-12\obj\Debug\net8.0\AT11.genruntimeconfig.cache
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT11-12\obj\Debug\net8.0\ref\AT11.dll
