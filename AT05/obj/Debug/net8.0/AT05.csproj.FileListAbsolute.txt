@@ -1,0 +1,14 @@
+C:\Users\victo\source\repos\AT\AT05\bin\Debug\net8.0\AT05.exe
+C:\Users\victo\source\repos\AT\AT05\bin\Debug\net8.0\AT05.deps.json
+C:\Users\victo\source\repos\AT\AT05\bin\Debug\net8.0\AT05.runtimeconfig.json
+C:\Users\victo\source\repos\AT\AT05\bin\Debug\net8.0\AT05.dll
+C:\Users\victo\source\repos\AT\AT05\bin\Debug\net8.0\AT05.pdb
+C:\Users\victo\source\repos\AT\AT05\obj\Debug\net8.0\AT05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\AT\AT05\obj\Debug\net8.0\AT05.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\AT\AT05\obj\Debug\net8.0\AT05.AssemblyInfo.cs
+C:\Users\victo\source\repos\AT\AT05\obj\Debug\net8.0\AT05.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\AT\AT05\obj\Debug\net8.0\AT05.dll
+C:\Users\victo\source\repos\AT\AT05\obj\Debug\net8.0\refint\AT05.dll
+C:\Users\victo\source\repos\AT\AT05\obj\Debug\net8.0\AT05.pdb
+C:\Users\victo\source\repos\AT\AT05\obj\Debug\net8.0\AT05.genruntimeconfig.cache
+C:\Users\victo\source\repos\AT\AT05\obj\Debug\net8.0\ref\AT05.dll
