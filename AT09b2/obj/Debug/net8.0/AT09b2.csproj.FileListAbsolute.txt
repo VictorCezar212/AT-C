@@ -1,0 +1,14 @@
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT09b2\bin\Debug\net8.0\AT09b2.exe
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT09b2\bin\Debug\net8.0\AT09b2.deps.json
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT09b2\bin\Debug\net8.0\AT09b2.runtimeconfig.json
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT09b2\bin\Debug\net8.0\AT09b2.dll
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT09b2\bin\Debug\net8.0\AT09b2.pdb
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT09b2\obj\Debug\net8.0\AT09b2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT09b2\obj\Debug\net8.0\AT09b2.AssemblyInfoInputs.cache
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT09b2\obj\Debug\net8.0\AT09b2.AssemblyInfo.cs
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT09b2\obj\Debug\net8.0\AT09b2.csproj.CoreCompileInputs.cache
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT09b2\obj\Debug\net8.0\AT09b2.dll
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT09b2\obj\Debug\net8.0\refint\AT09b2.dll
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT09b2\obj\Debug\net8.0\AT09b2.pdb
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT09b2\obj\Debug\net8.0\AT09b2.genruntimeconfig.cache
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT09b2\obj\Debug\net8.0\ref\AT09b2.dll
