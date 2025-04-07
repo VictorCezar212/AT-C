@@ -12,3 +12,17 @@ C:\Users\victo\source\repos\AT\AT03\obj\Debug\net8.0\refint\AT03.dll
 C:\Users\victo\source\repos\AT\AT03\obj\Debug\net8.0\AT03.pdb
 C:\Users\victo\source\repos\AT\AT03\obj\Debug\net8.0\AT03.genruntimeconfig.cache
 C:\Users\victo\source\repos\AT\AT03\obj\Debug\net8.0\ref\AT03.dll
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT03\bin\Debug\net8.0\AT03.exe
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT03\bin\Debug\net8.0\AT03.deps.json
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT03\bin\Debug\net8.0\AT03.runtimeconfig.json
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT03\bin\Debug\net8.0\AT03.dll
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT03\bin\Debug\net8.0\AT03.pdb
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT03\obj\Debug\net8.0\AT03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT03\obj\Debug\net8.0\AT03.AssemblyInfoInputs.cache
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT03\obj\Debug\net8.0\AT03.AssemblyInfo.cs
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT03\obj\Debug\net8.0\AT03.csproj.CoreCompileInputs.cache
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT03\obj\Debug\net8.0\AT03.dll
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT03\obj\Debug\net8.0\refint\AT03.dll
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT03\obj\Debug\net8.0\AT03.pdb
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT03\obj\Debug\net8.0\AT03.genruntimeconfig.cache
+C:\Users\victor.cxavier\Desktop\AT-C-main\AT03\obj\Debug\net8.0\ref\AT03.dll
