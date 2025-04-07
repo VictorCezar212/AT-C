@@ -1,0 +1,14 @@
+C:\Users\victo\source\repos\AT\AT\bin\Debug\net8.0\AT.exe
+C:\Users\victo\source\repos\AT\AT\bin\Debug\net8.0\AT.deps.json
+C:\Users\victo\source\repos\AT\AT\bin\Debug\net8.0\AT.runtimeconfig.json
+C:\Users\victo\source\repos\AT\AT\bin\Debug\net8.0\AT.dll
+C:\Users\victo\source\repos\AT\AT\bin\Debug\net8.0\AT.pdb
+C:\Users\victo\source\repos\AT\AT\obj\Debug\net8.0\AT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\AT\AT\obj\Debug\net8.0\AT.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\AT\AT\obj\Debug\net8.0\AT.AssemblyInfo.cs
+C:\Users\victo\source\repos\AT\AT\obj\Debug\net8.0\AT.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\AT\AT\obj\Debug\net8.0\AT.dll
+C:\Users\victo\source\repos\AT\AT\obj\Debug\net8.0\refint\AT.dll
+C:\Users\victo\source\repos\AT\AT\obj\Debug\net8.0\AT.pdb
+C:\Users\victo\source\repos\AT\AT\obj\Debug\net8.0\AT.genruntimeconfig.cache
+C:\Users\victo\source\repos\AT\AT\obj\Debug\net8.0\ref\AT.dll
