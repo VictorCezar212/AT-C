@@ -2,15 +2,16 @@
 {
     internal class Program
     {
-        static string caminhoArquivo = "estoque.txt";
+        static Produto[] produtos = new Produto[5];
+        static int quantidadeProdutos = 0;
         static void Main(string[] args)
         {
-            while(true)
+            while (true)
             {
                 ExibirMenu();
                 string escolha = Console.ReadLine();
 
-                switch(escolha)
+                switch (escolha)
                 {
                     case "1":
                         InserirProduto();
@@ -19,7 +20,7 @@
                         ListarProdutos();
                         break;
                     case "3":
-                        Console.WriteLine("Saindo do sistema...");
+                        Console.WriteLine("Saindo do Sistema...");
                         return;
                     default:
                         Console.WriteLine("Opção inválida! Tente novamente!");
@@ -27,7 +28,7 @@
                 }
             }
         }
-        
+
         static void ExibirMenu()
         {
             Console.Clear();
@@ -40,7 +41,7 @@
 
         static void InserirProduto()
         {
-            if (GetQuantidadeProdutos() >= 5 )
+            if (quantidadeProdutos >= 5)
             {
                 Console.WriteLine("Limite de produtos atingido");
                 Console.ReadLine();
@@ -51,21 +52,27 @@
             int quantidade = ObterNumeroPositivo("Digite a quantidade em estoque: ");
             decimal preco = ObterDecimalPositivo("Digite o preço unitário: ");
 
-            GravarProduto(nomeProduto, quantidade, preco);
+            produtos[quantidadeProdutos] = new Produto
+            {
+                Nome = nomeProduto,
+                Quantidade = quantidade,
+                Preco = preco
+            };
+
+            quantidadeProdutos++;
+
             Console.WriteLine($"Produto '{nomeProduto}' inserido com sucesso!");
             Console.ReadLine();
         }
 
         static void ListarProdutos()
         {
-            var produtos = LerProdutos();
-
-            if (produtos.Any())
+            if (quantidadeProdutos > 0)
             {
                 Console.WriteLine("Produtos Cadastrados: ");
-                foreach (var produto in produtos)
+                for (int i = 0; i < quantidadeProdutos; i++)
                 {
-                    Console.WriteLine($"Produto: {produto.Nome} | Quantidade: {produto.Quantidade} | Preço: R$ {produto.Preco:F2}");
+                    Console.WriteLine($"Produto: {produtos[i].Nome} | Quantidade: {produtos[i].Quantidade} | Preço: R$ {produtos[i].Preco:F2}");
                 }
             }
             else
@@ -74,34 +81,6 @@
             }
 
             Console.ReadLine();
-        }
-
-        static Produto[] LerProdutos()
-        {
-            if(!File.Exists(caminhoArquivo))
-            {
-                return new Produto[0];
-            }
-
-            var linhas = File.ReadAllLines(caminhoArquivo);
-            return linhas.Select(linha =>
-            {
-                var partes = linha.Split(',');
-                return new Produto
-                {
-                    Nome = partes[0],
-                    Quantidade = int.Parse(partes[1]),
-                    Preco = decimal.Parse(partes[2])
-                };
-            }).ToArray();
-        }
-
-        static void GravarProduto(string nome, int quantidade, decimal preco)
-        {
-            using (StreamWriter sw = File.AppendText(caminhoArquivo))
-            {
-                sw.WriteLine($"{nome},{quantidade},{preco:F2}");
-            }
         }
 
         static int ObterNumeroPositivo(string mensagem)
@@ -130,12 +109,6 @@
         {
             Console.Write(mensagem);
             return Console.ReadLine();
-        }
-
-
-        static int GetQuantidadeProdutos()
-        {
-            return File.Exists(caminhoArquivo) ? File.ReadAllLines(caminhoArquivo).Length : 0;
         }
     }
 
