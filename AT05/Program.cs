@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            DateTime dataFormatura = new DateTime(2026, 01, 01);
+            DateTime dataFormatura = new DateTime(2026, 12, 15);
             DateTime dataAtual = DateTime.Now;
 
             if (dataAtual == DateTime.MinValue)

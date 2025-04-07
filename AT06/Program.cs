@@ -6,7 +6,7 @@
         {
             Aluno meuAluno = new Aluno
             {
-                Nome = "João Silva",
+                Nome = "Victor Cezar",
                 Matricula = "20240701",
                 Curso = "Ciência de Dados",
                 MediaNotas = 8.5
